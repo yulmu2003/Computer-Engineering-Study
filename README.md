@@ -26,6 +26,7 @@
 
 ### 참여자
 
-|[<img src = "https://www.github.com/yulmu2003.png" width = 100px, height = 100px>](https://github.com/yulmu2003)|[![](https://github.com/realslimtaek.png?width=200px)](https://github.com/realslimtaek) |
+|Mentee|Mentor|
 |:---:|:---:|
+|[<img src = "https://www.github.com/yulmu2003.png" width = 100px, height = 100px>](https://github.com/yulmu2003)|[![](https://github.com/realslimtaek.png?width=200px)](https://github.com/realslimtaek) |
 |yulmu2003|realslimtaek|
