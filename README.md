@@ -19,7 +19,7 @@
 - [C#](https://github.com/yulmu2003/Computer-Engineering-Study/tree/main/C#)
 - [JAVA](https://github.com/yulmu2003/Computer-Engineering-Study/tree/main/Java)
 - [알고리즘](https://github.com/yulmu2003/Computer-Engineering-Study/tree/main/Algorithm)
-- [Computer Architecture](https://github.com/yulmu2003/Computer-Engineering-Study/tree/main/ComputerArchitecture)
+- [컴퓨터구조](https://github.com/yulmu2003/Computer-Engineering-Study/tree/main/ComputerArchitecture)
 - [운영체제](https://github.com/yulmu2003/Computer-Engineering-Study/tree/main/OS)
 - [Database](https://github.com/yulmu2003/Computer-Engineering-Study/tree/main/Database)
 
